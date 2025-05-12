@@ -95,6 +95,10 @@ body.dark {
   color: white;
 }
 
+.dark .presets button {
+  color: white;
+}
+
 input[type="number"] {
   width: 100%;
   border: 1px solid #ccc;
@@ -126,13 +130,16 @@ input[type="number"] {
   border: 1px solid var(--clr-accent);
 }
 
-.btn-primary:hover {
-  background-color: #2195f370;
-  color: #121212;
-}
+.btn-primary:hover,
 .btn-secondary:hover {
   background-color: #2195f370;
   color: #121212;
+}
+
+.dark .btn-primary:hover,
+.btn-secondary:hover {
+  background-color: #2195f370;
+  color: white;
 }
 
 #result {
