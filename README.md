@@ -6,9 +6,9 @@ Una calculadora de propinas desarrollada con **JavaScript puro**, HTML y CSS, pa
 
 - `index.html` - punto de entrada y estructura HTML.
 - `src/css/styles.css` - estilos modernos con variables CSS y diseño responsive.
-  - 🔗 [Ver carpeta `src/`](https://github.com/saulvg/vanilla-tip-calculator/tree/main/src/css/styles.css)
+  - 🔗 [Ver archivo `styles`](https://github.com/saulvg/vanilla-tip-calculator/tree/main/src/css/styles.css)
 - `src/js/app.js` - lógica completa de la calculadora en módulo ES6.
-  - 🔗 [Ver carpeta `src/`](https://github.com/saulvg/vanilla-tip-calculator/tree/main/src/js/app.js)
+  - 🔗 [Ver archivo `app`](https://github.com/saulvg/vanilla-tip-calculator/tree/main/src/js/app.js)
 - `assets/` – capturas de pantalla (PNG) para documentación.
 
 ## ⚙️ Tecnologías
