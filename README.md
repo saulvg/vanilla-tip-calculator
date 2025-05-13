@@ -48,9 +48,9 @@ Una calculadora de propinas desarrollada con **JavaScript puro**, HTML y CSS, pa
 ### 📱 Vista Móvil
 
 <p align="center">
-  <img src="assets/screenshotMobile2.png" alt="Calculadora de propinas en vista móvil" width="250px" />
+  <img src="assets/screenshotMobile1.png" alt="Calculadora de propinas en vista móvil" width="250px" />
 </p>
 
 <p align="center">
-  <img src="assets/screenshotMobile1.png" alt="Calculadora de propinas en vista móvil" width="250px" />
+  <img src="assets/screenshotMobile2.png" alt="Calculadora de propinas en vista móvil" width="250px" />
 </p>
